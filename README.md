@@ -2,7 +2,7 @@
 It is a Notepad application developed in Java programming language, JAVA swing is used.
 So this project is being made to practice java. The main idea of the project was to practice data structure in java but as I kept going on this project "Swing" swung most of the problems which were supposed to be solved using Data Structures.
 
-Images of project are added: - https://imgur.com/a/wGCNjcX
+Project images are added: - https://imgur.com/a/wGCNjcX
 
 So the purpose of various file are:
 1. GUI.java - this is file is the main file. The constructor in this file calls all the functions which are responsible for this project's functioning. 
