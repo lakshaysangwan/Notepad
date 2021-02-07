@@ -2,6 +2,8 @@
 It is a Notepad application developed in Java programming language, JAVA swing is used.
 So this project is being made to practice java. The main idea of the project was to practice data structure in java but as I kept going on this project "Swing" swung most of the problems which were supposed to be solved using Data Structures.
 
+Images of project are added: - https://imgur.com/a/wGCNjcX
+
 So the purpose of various file are:
 1. GUI.java - this is file is the main file. The constructor in this file calls all the functions which are responsible for this project's functioning. 
 2. functionColor.java - this is the theme file which contains the themes for the project it is fairly easy to add various other themes to the project(once you understand the code).
@@ -11,6 +13,3 @@ So the purpose of various file are:
 6. keyHandler.java - this binds the keyboard keys to most command functions in the application like undo, redo, open, save, saveAs, themes.
 
 ps - I didn't add descriptions of most functions individually. It would be too much if I type everything. sorry for the inconvenience.
-
-
----------------------------------------------------- images would be added soon ----------------------------------------------------------
