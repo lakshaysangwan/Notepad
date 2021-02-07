@@ -10,7 +10,7 @@ So the purpose of various file are:
 5. functionFormat.java - this contains the "Word Wrap" functionality along with font and font size functions.
 6. keyHandler.java - this binds the keyboard keys to most command functions in the application like undo, redo, open, save, saveAs, themes.
 
-ps - I didn't add most of the descriptions of most functions individually. It would be too much if I type everything. sorry for the inconvenience.
+ps - I didn't add descriptions of most functions individually. It would be too much if I type everything. sorry for the inconvenience.
 
 
 ---------------------------------------------------- images would be added soon ----------------------------------------------------------
