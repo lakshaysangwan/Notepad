@@ -3,7 +3,7 @@ It is a Notepad application developed in Java programming language, JAVA swing i
 This project is being made to practice java. The main idea of the project was to practice data structure in java but as I kept going on this project "Swing" swung most of the problems which were supposed to be solved using Data Structures.
 
 Project images are added: - https://imgur.com/a/wGCNjcX
-<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:74.8%;position:relative;"><iframe width="500" height="374" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4x4wt9"></iframe></div><p><a href="https://imgflip.com/gif/4x4wt9">via Imgflip</a></p></div>
+<img src="https://imgflip.com/gif/4x4wt9" width="300">
 
 So the purpose of various file are:
 1. GUI.java - this file is the main file. The constructor in this file calls all the functions which are responsible for this project's functioning. 
